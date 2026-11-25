@@ -1,4 +1,4 @@
-# Q R Studio 
+# QR Studio 
 
 A small Flutter QR code generator app for a mini project.
 
